@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nithish Babu.K</h1>
-<h3 align="center">A passionate frontend developer from India currently practicing my skills in java</h3>
+<h3 align="center">A passionate developer from India currently practicing my skills in java</h3>
 
-- 🔭 I’m currently working on **online fashion web application project**
+- 🔭 I’m currently working on **DSA projects**
 
-- 🌱 I’m currently learning **Php,Java,Javascript,Html,Css**
+- 🌱 I’m currently learning **C++,Java,Data Structre,Html,Css**
 
 - 📫 How to reach me **knithishbabu@gmail.com**
 
